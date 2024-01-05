@@ -8,9 +8,7 @@
     "start": "next start",
     "lint": "next lint"
   },
-  "prisma": {
-    "seed": "node prisma/seed.js"
-  },
+  
   "dependencies": {
     "@prisma/client": "^5.7.1",
     "@stripe/stripe-js": "^2.2.2",
