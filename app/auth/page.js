@@ -14,7 +14,7 @@ export default function AuthPage() {
 
             <div className="w-full flex items-center justify-center p-5 border-b-gray-300">
                 <Link href="/" className="min-w-[170px]">
-                    <img width="170" src="/images/logo.svg"/>
+                    <img width="170" src="/images/logoNombre.svg"/>
                 </Link>
             </div>
 

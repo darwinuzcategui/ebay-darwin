@@ -1,0 +1,35 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN"
+ "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+
+<svg version="1.0" xmlns="http://www.w3.org/2000/svg" 
+ width="1005" 
+ height="450">
+        <defs>
+            <linearGradient id="MyGradient" x1="0" y1="0" x2="100%" y2="0%">
+                <stop offset="0%" stop-color="#4314dc" />
+                <stop offset="10%" stop-color="orange" />
+                <stop offset="20%" stop-color="#ff0051" />
+                <stop offset="30%" stop-color="orange" />
+                <stop offset="40%" stop-color="gold" />
+                <stop offset="50%" stop-color="#59cd32" />
+                <stop offset="60%" stop-color="orange" />
+                <stop offset="70%" stop-color="yellowgreen" />
+                <stop offset="80%" stop-color="gold" />
+                <stop offset="90%" stop-color="orange" />
+                <stop offset="100%" stop-color="#1714dc" />
+            </linearGradient>
+
+            <pattern id="rainbow" patternUnits="userSpaceOnUse" width="200" height="150" viewbox="0 0 200 200">
+                <rect width="200" height="200" fill="url(#MyGradient)" />
+            </pattern>
+
+        </defs>
+
+        <symbol id="text">
+      <text text-anchor="middle" x="50%" y="50%">GMD🛒</text>
+      <text text-anchor="middle" x="50%" y="50%">GMD🛒</text>
+      <text text-anchor="middle" x="50%" y="50%">GMD🛒</text>
+    </symbol>
+    
+    </svg>
